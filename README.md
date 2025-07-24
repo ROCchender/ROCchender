@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="img/wusaba.png"/>
+    <img src="img/wusaba.png" width="200"/>
   </a>
 </p>
 
