@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm <a href="">chender</a>!</h1>
 <p align="center">
   <a href="">
-    <img src="img/manbo.jpg" alt="chender">
+    <img src="" alt="chender">
   </a>
 </p>
 <h3 align="center">welcome to my GitHub profile (๑´ڡ`๑)</h3>
