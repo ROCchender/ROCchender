@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">hi, I'm <a href="">chender</a>!</h1>
+<h1 align="center">Hi, I'm <a href="">chender</a>!</h1>
 <p align="center">
   <a href="">
     <img src="" alt="chender">
