@@ -8,7 +8,7 @@
 <p align="center">
   <a href="">
     <img src="img/manbo.jpg" alt="chender" style="vertical-align: middle; width: 32px; height: 32px;">
-    <span style="vertical-align: middle;">嘿嘿⌓‿⌓</span>
+    <span style="vertical-align: middle;">嘿嘿⌓⌓</span>
   </a>
 </p>
 <h3 align="center">welcome to my GitHub profile (๑´ڡ`๑)</h3>
