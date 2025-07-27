@@ -16,11 +16,11 @@
 <p align="center">早安午安晚安！祝各位都有愉快的一天</p>
 
 <p align="center">
-  <strong><a href="">Website</a></strong> |
-  <strong><a href="">Twitter</a></strong> |
-  <strong><a href="">Bluesky</a></strong> |
-  <strong><a href="">Discord</a></strong> |
-  <strong><a href="">PGP</a></strong>
+  <strong><a href="http://8.138.172.186:8080/">Website</a></strong> |
+  <strong><a href="https://x.com/ROCchender">Twitter</a></strong> |
+  <strong><a href="https://www.zhihu.com/people/chender-67">zhihu</a></strong> |
+  <strong><a href="https://www.facebook.com/profile.php?id=100011327460170">FaceBook</a></strong> |
+  <strong><a href="mailto:outlook_0FABF433B158322A@outlook.com">写邮件给我</a></strong>
 </p>
 
 <p align="center">
