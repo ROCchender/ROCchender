@@ -20,7 +20,7 @@
   <strong><a href="https://x.com/ROCchender">Twitter</a></strong> |
   <strong><a href="https://www.zhihu.com/people/chender-67">zhihu</a></strong> |
   <strong><a href="https://www.facebook.com/profile.php?id=100011327460170">FaceBook</a></strong> |
-  <strong><a href="mailto:outlook_0FABF433B158322A@outlook.com">写邮件给我</a></strong>
+  <strong><a href="mailto:ROCchender@outlook.com">写邮件给我</a></strong>
 </p>
 
 <p align="center">
