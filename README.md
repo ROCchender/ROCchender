@@ -16,7 +16,7 @@
 <p align="center">早安午安晚安！祝各位都有愉快的一天</p>
 
 <p align="center">
-  <strong><a href="https://http://homepage.chender.dpdns.org/">Website</a></strong> |
+  <strong><a href="https://homepage.chender.dpdns.org">Website</a></strong> |
   <strong><a href="https://x.com/ROCchender">Twitter</a></strong> |
   <strong><a href="https://www.zhihu.com/people/chender-67">zhihu</a></strong> |
   <strong><a href="https://www.facebook.com/profile.php?id=100011327460170">FaceBook</a></strong> |
