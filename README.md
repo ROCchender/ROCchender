@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://chender.dpdns.org/">chender</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://blog.chender.dpdns.org/">chender</a>!</h1>
 <p align="center">
   <a href="">
     <img src="img/manbo.jpg" alt="chender" style="vertical-align: middle; width: 32px; height: 32px;">
